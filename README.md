@@ -1,4 +1,4 @@
-# Investisight
+# Sentiment-Driven Stock Prediction
 
 Investisight is a sentiment-driven stock prediction project that explores whether financial news sentiment can improve stock price forecasting. The project combines scraped Pakistani news headlines from DAWN News with HBL stock market data, then uses the combined dataset to train an LSTM model for time-series prediction.
 
